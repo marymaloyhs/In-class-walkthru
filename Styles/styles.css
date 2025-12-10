@@ -1,0 +1,58 @@
+body {
+    background-color: lightblue;
+    color: blue;
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+h4 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+
+h6 {
+    font-size: 16px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: blue;
+    text-align: left;
+}
+
+.pretty {
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+}
+
+.redtext {
+    color: red;
+}
